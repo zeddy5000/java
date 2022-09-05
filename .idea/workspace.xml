@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2643d62c-57a5-471b-84c0-c6c822f841ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfacesInbuilt/FunctionalInterfacesInbuilt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfacesInbuilt/StreamApis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterfacesInbuilt/StreamApisMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regex/string/regex/string/regex/serialization/lamdasnstreams/FunctionalInterfaceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regex/string/regex/string/regex/serialization/lamdasnstreams/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/streams2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings.regex.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dp7RZUYoiAkIvZJ6wT0atZp9bp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ISU ZEDDY\IdeaProjects\strings.regex\src\regex\string\regex\string\regex\string" />
+      <recent name="C:\Users\ISU ZEDDY\IdeaProjects\strings.regex\src\regex\string\regex\string\regex\string\regex\string" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamApisMain">
+    <configuration name="FuctionalInterfacesInbuilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfacesInbuilt.FuctionalInterfacesInbuilt" />
+      <module name="strings.regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfacesInbuilt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.string.regex.string.regex.serialization.lamdasnstreams.FunctionalInterfaceSample" />
+      <module name="strings.regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regex.string.regex.string.regex.serialization.lamdasnstreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfacesInbuilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfacesInbuilt.FunctionalInterfacesInbuilt" />
+      <module name="strings.regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfacesInbuilt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfacesInbuilt.StreamApis" />
+      <module name="strings.regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfacesInbuilt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApisMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterfacesInbuilt.StreamApisMain" />
+      <module name="strings.regex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterfacesInbuilt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamApisMain" />
+        <item itemvalue="Application.StreamApis" />
+        <item itemvalue="Application.FunctionalInterfacesInbuilt" />
+        <item itemvalue="Application.FuctionalInterfacesInbuilt" />
+        <item itemvalue="Application.FunctionalInterfaceSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2643d62c-57a5-471b-84c0-c6c822f841ea" name="Changes" comment="" />
+      <created>1661384169721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661384169721</updated>
+      <workItem from="1661384171510" duration="11126000" />
+      <workItem from="1661780203614" duration="4344000" />
+      <workItem from="1662369211078" duration="6361000" />
+      <workItem from="1662381571257" duration="8624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
